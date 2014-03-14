@@ -62,8 +62,6 @@ public static void Main()
                 bigA=a;bigB=b;bigC=g;bigD=d;
                 row=r;col=c;
             }
-            Console.WriteLine("ProdA {0} ProdB {1} ProdC {2} ProdD {3} Max Prod{4}",a,b,g,d,mrmax);
-            
         }
     }
     sw.Stop();
