@@ -1,4 +1,4 @@
-Euler-Seven
+Problem 7
 ===========
 
 Project Euler Solution for Problem 7
