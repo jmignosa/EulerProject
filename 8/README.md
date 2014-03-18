@@ -1,4 +1,4 @@
-Euler-Eight
+Euler Eight
 ===========
 
 Project Euler Solution for Problem 8
