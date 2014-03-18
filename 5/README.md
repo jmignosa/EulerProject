@@ -1,4 +1,4 @@
-Euler-Five
+Problem 5
 ==========
 
 Project Euler Solution for Problem 5
