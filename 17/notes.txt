@@ -1,0 +1,2 @@
+get values for hundreds ie one hundred, two hundred, three hundred etc
+once you have 1 - 99 you can figure the rest. Just add x hundred + (x hundred and) * value for 99.
