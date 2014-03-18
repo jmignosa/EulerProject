@@ -1,4 +1,4 @@
-euler-three
+Problem 3
 ===========
 
 Largest prime factor
